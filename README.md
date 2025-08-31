@@ -35,4 +35,5 @@ The code in this repository is public domain.
 
 ## Time-stamped output example from this fork (from a local ATC radio):
 
-<img width="816" height="566" alt="截屏2025-08-31 下午4 37 56" src="https://github.com/user-attachments/assets/fbecac34-18dd-46b9-9987-c4c92b72000e" />
+<img width="733" height="529" alt="截屏2025-08-31 下午4 50 37" src="https://github.com/user-attachments/assets/cd1b984d-6b1b-4b77-8db8-a332e31eacae" />
+
