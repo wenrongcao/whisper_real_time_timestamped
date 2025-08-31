@@ -89,12 +89,11 @@ def main():
                 text = result['text'].strip()
 
                 if phrase_complete:
-                    
                     local_time = datetime.now(get_localzone()).strftime('%Y-%m-%d %H:%M:%S')
                     transcription.append(f"[{timestamp}] {text}")
                 else:
                     # Update the last entry
-                    timestamp = transcription[-1].split(']')[0][1:] if transcription else datetime.now(get_localzone()).strftime('%Y-%m-%d %H:%M:%S')
+                    timestamp = datetime.now(get_localzone()).strftime('%Y-%m-%d %H:%M:%S')
                     if transcription:
                         transcription[-1] = f"[{timestamp}] {text}"
                     else:
