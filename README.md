@@ -32,3 +32,7 @@ scoop install ffmpeg
 For more information on Whisper please see https://github.com/openai/whisper
 
 The code in this repository is public domain.
+
+## Time-stamped output example from this fork (from a local ATC radio):
+
+<img width="816" height="566" alt="截屏2025-08-31 下午4 37 56" src="https://github.com/user-attachments/assets/fbecac34-18dd-46b9-9987-c4c92b72000e" />
